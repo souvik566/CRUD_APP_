@@ -29,3 +29,5 @@ CSS
 JavaScript
 Author
 Souvik Bhattacharyya
+
+Website prview is also available at https://souvik566.github.io/CRUD_APP_/
